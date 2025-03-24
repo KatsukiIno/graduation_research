@@ -1,6 +1,0 @@
-0:scissors
-1:four
-2:three
-3:good
-4:other
-5:one
