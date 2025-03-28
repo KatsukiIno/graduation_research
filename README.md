@@ -15,7 +15,7 @@ mediapipe: 0.10.18\
 numpy: 1.26.4\
 opencv-python: 4.10.0.84\
 tensorflow: 2.18.0\
-\
+
 ## 学習環境
 CPU: Intel Xeon CPU @ 2.00GHz\
 GPU: Tesla T4\
