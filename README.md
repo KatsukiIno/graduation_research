@@ -14,11 +14,11 @@ Python: 3.10.15 \
 mediapipe: 0.10.18\
 numpy: 1.26.4\
 opencv-python: 4.10.0.84\
-tensorflow: 2.18.0\
+tensorflow: 2.18.0
 
 ## 学習環境
 CPU: Intel Xeon CPU @ 2.00GHz\
 GPU: Tesla T4\
 メモリ: 16GB\
-tensorflow: Version: 2.17.1\
+tensorflow: Version: 2.17.1
 
